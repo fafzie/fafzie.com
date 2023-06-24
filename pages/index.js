@@ -14,7 +14,7 @@ export default function Home() {
 
       <main>
         <p className="description">
-          Get started fafis by editing 3 <code>pages/index.js</code>
+          Get started fafis by editing 4 <code>pages/index.js</code>
         </p>
         
         
