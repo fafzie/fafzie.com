@@ -1,0 +1,53 @@
+a {
+    color: #dadada; /* Set the desired link color */
+    text-decoration: none; /* Remove the underline */
+  }
+
+  body {
+    background-color: #2e2e2e; /* Set the desired grey color */
+  }
+
+  .header-links a {
+    margin-right: 20px; /* Adj
+    maust the desired spacing between the links */
+    margin-top: 110px;
+
+  }
+
+  .container {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+
+  }
+  
+  .container > div {
+    flex: 1;
+
+    max-width: 800px;
+    min-width: 800px; /* Adjust the desired maximum width */
+  }
+
+
+  .left-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    color: white;
+  }
+  
+  .right-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+  }
+  
+  .right-section img {
+    max-width: 100%;
+    height: auto;
+  }
