@@ -41,7 +41,7 @@ const Hero = () => {
               I build stuff with{' '}
               <span>
                 <Image
-                  src='/portfolio/images/js.png'
+                  src='/images/js.png'
                   alt='usa-flag'
                   width={16}
                   height={16}
@@ -94,7 +94,7 @@ const Hero = () => {
 
           <div className={`${classes.columnRight} ${classes.profilePic}`}>
             <Image
-              src='/portfolio/images/profile-pic.webp'
+              src='/images/profile-pic.webp'
               width={460}
               height={460}
               alt='profile-pic'

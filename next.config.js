@@ -6,7 +6,6 @@ const nextConfig = {
     loader: 'akamai',
     path: isProd ? 'https://renebitter.github.io/' : '',
   },
-  basePath: '/portfolio',
 };
 
 module.exports = nextConfig;
