@@ -94,7 +94,7 @@ const Hero = () => {
 
           <div className={`${classes.columnRight} ${classes.profilePic}`}>
             <Image
-              src='/images/profile-pic.webp'
+              src='/images/fafisphoto.webp'
               width={460}
               height={460}
               alt='profile-pic'
