@@ -4,15 +4,15 @@ const Footer = () => {
   return (
     <footer className={classes.footer}>
       <div className={classes.socialMedia}>
-        <a href='#' target='_blank' rel='noreferrer'>
+        {/* <a href='#' target='_blank' rel='noreferrer'>
           <i className='fab fa-github'></i>
-        </a>
+        </a> */}
         <a href='#' target='_blank' rel='noreferrer'>
           <i className='fab fa-linkedin'></i>
         </a>
       </div>
-      <div>Lorem Ipsum</div>
-      <small>
+      <div>Updated  Q2 - 2023</div>
+      {/* <small>
         Icons by{' '}
         <a href='https://www.flaticon.com/' target='_blank' rel='noreferrer'>
           Flaticon
@@ -21,7 +21,7 @@ const Footer = () => {
         <a href='https://fontawesome.com/' target='_blank' rel='noreferrer'>
           Font Awesome
         </a>
-      </small>
+      </small> */}
     </footer>
   );
 };

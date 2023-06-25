@@ -17,23 +17,17 @@ const About = () => {
         <div className={classes.row}>
           <div className={classes.columnLeft} data-aos='fade-right'>
             <h3>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi
-              molestiae libero eius adipisci reprehenderit, cumque illum atque
-              provident ullam placeat harum veritatis odit perferendis ipsum
-              aperiam mollitia voluptates temporibus nulla?
+            Greetings! I am Fafis, an Unreal developer, trainer and visionary in interactive design. With over 6 years of expertise in crafting immersive solutions for simulations, game design, and architectural visualization, I have traversed the global landscape. Guided by a degree in architecture and a diploma in web development, I am adept at creating extraordinary experiences that transcend industry boundaries. Let us embark on a journey of boundless creativity together!
             </h3>
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat
-              qui autem quis, alias porro eligendi nostrum impedit aut omnis a
-              distinctio officiis excepturi facere incidunt ut! Asperiores
-              laboriosam iure blanditiis.
+            With an inspired perspective, I envision a future where interactive technology transcends boundaries, igniting a tapestry of limitless creativity and transforming industries with captivating and immersive experiences.
             </p>
           </div>
 
           <div className={classes.columnRight}>
             <div className={classes.imageContainer}>
               <Image
-                src='/images/profile-pic-2.webp'
+                src='/images/fafis_avatar.webp'
                 width={600}
                 height={600}
                 alt='profile-pic'
@@ -41,7 +35,7 @@ const About = () => {
               />
             </div>
             <div className={classes.quote} data-aos='fade-right'>
-              &quot;Distinctio officiis excepturi facere incidunt ut!&quot;
+              &quot;Imagine a future filled with goodness..!&quot;
             </div>
           </div>
         </div>

@@ -1,11 +1,11 @@
 ---
-  title: Example 2
+  title: Project 2
   tech:
     - React
     - Context
   description: Search for github users with Github API and React Context.
   liveLink: https://google.com/
-  githubLink: https://github.com/
+  # githubLink: https://github.com/
   image: github-finder.png
   isFeatured: true
 ---

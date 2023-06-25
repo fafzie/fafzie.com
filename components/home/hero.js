@@ -36,10 +36,10 @@ const Hero = () => {
         <div className={classes.row}>
           <div className={classes.columnLeft}>
             <h3 data-aos='fade-left'>Hi, my name is Fafis.</h3>
-            <h1 data-aos='fade-right'>I&apos;m a Web Developer.</h1>
+            <h1 data-aos='fade-right'>I&apos;m an Unreal developer, Trainer and visionary in interactive design.</h1>
             <p data-aos='fade-left' data-aos-delay='150'>
-              I build stuff with{' '}
-              <span>
+              Showcasing my journey here {' '}
+              {/* <span>
                 <Image
                   src='/images/js.png'
                   alt='usa-flag'
@@ -47,19 +47,19 @@ const Hero = () => {
                   height={16}
                 />
               </span>{' '}
-              Javascript.
+              Javascript. */}
             </p>
             <div className={classes.socialMedia}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              {/* <a href='#' target='_blank' rel='noreferrer'>
                 <i className='fab fa-github' data-aos='flip-up'></i>
-              </a>
-              <a href='#' target='_blank' rel='noreferrer'>
+              </a> */}
+              <a href='https://www.linkedin.com/in/fafis/' target='_blank' rel='noreferrer'>
                 <i
                   className='fab fa-linkedin'
                   data-aos='flip-up'
                   data-aos-delay='50'></i>
               </a>{' '}
-              <a href='#' target='_blank' rel='noreferrer'>
+              {/* <a href='#' target='_blank' rel='noreferrer'>
                 <i
                   className='fab fa-twitter'
                   data-aos='flip-up'
@@ -70,7 +70,7 @@ const Hero = () => {
                   className='fab fa-codepen'
                   data-aos='flip-up'
                   data-aos-delay='150'></i>
-              </a>
+              </a> */}
             </div>
             <div className={classes.ctaButtons}>
               <motion.button

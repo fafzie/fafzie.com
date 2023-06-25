@@ -1,5 +1,5 @@
 ---
-  title: Example 1
+  title: project 1
   tech:
     - React
     - MongoDB
@@ -12,9 +12,9 @@
   image: contact-keeper.png
   isFeatured: true
   screenshots:
-    - screenshot: 01-home.png
+    - screenshot: Bim_app.webp
       description: Homepage with navbar and hero element.
-    - screenshot: 02-home.png
+    - screenshot: Bim_app.webp
       description: >-
         Homepage. Carousel with 3 top-rated products and general product
         listing.
