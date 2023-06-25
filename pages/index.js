@@ -12,7 +12,7 @@ export default function Home(props) {
   return (
     <>
       <Head>
-        <title>Personal Portfolio</title>
+        <title>Personal Portfolio Mr fafis</title>
         <meta
           name='description'
           content='My personal web development portfolio including various frontend and fullstack projects as well as web development blog articles. Tech-Stack: React, Next.js, Redux, Typescript, Node.js, Express, MongoDB, Bootstrap, Shopware.'
