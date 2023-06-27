@@ -2,7 +2,7 @@
 title: 'Using Markdown as a blog format'
 date: '2022-04-03'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
+excerpt: 'EX - 1 How to build a blog using react-markdown to render posts written in markdown'
 isFeatured: true
 tech: ['Markdown']
 ---
