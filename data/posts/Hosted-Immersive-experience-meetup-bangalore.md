@@ -1,27 +1,22 @@
 ---
-title: 'Lorem Ipsum'
-date: '2022-04-03'
+title: 'Hosted Immersive technology 2023 meetup'
+date: '2022-10-22'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
-tech: ['Markdown']
+excerpt: 'Hosted Immersive technology 2023 meetup in Banglore, India'
+isFeatured: false
+tech: ['Event']
 ---
 
-# Using Markdown as a blog format
+# Hosted Immersive technology 2023 meetup in Banglore, India
 
-![Image ...](/images/posts/first-post/first-post.jpg)
+![Image ...](/images/posts/immersive-exp-2023/immersive-tech.jpg)
 
-```text
----
-title: 'Using Markdown as a blog format'
-date: '2022-04-03'
-image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
----
 
-```
+Hosted an meetup on the topic Immersive technology 2023 at Banglore, India. Due to covid pandamic the meetup mostly happened online and the community missed the real events. During the event people from diverse industries participated and discussed on the current trend and latest technologies.
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos minima optio omnis commodi atque modi, dolores saepe nostrum vero sunt obcaecati recusandae animi delectus veritatis ut nam dolore magnam.
+![Image ...](/images/posts/immersive-exp-2023/immersive-tech-meetup-2023.jpeg)
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, explicabo necessitatibus cumque quis, labore incidunt facere dolor impedit odio fugit totam, praesentium blanditiis consequatur deleniti repellat reprehenderit modi aut enim.
+
+Meetups are allways a great place to meet new people , learn and share the experience with others. I got the chance to meet intresting personalities during event like this.
+
+![Image ...](/images/posts/immersive-exp-2023/immersive-tech-meetup-3-2023.jpeg)

@@ -1,27 +1,20 @@
 ---
-title: 'Lorem Ipsum'
+title: 'Interactive technology Workshop in Calicut, India'
 date: '2022-04-03'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
-tech: ['Markdown']
+excerpt: 'An interactive workshop on Unreal Engine Workshop in Calicut, India '
+isFeatured: false
+tech: ['Unreal Engine']
 ---
 
-# Using Markdown as a blog format
+# Interactive technology Workshop in Calicut, India
 
 ![Image ...](/images/posts/first-post/first-post.jpg)
 
-```text
----
-title: 'Using Markdown as a blog format'
-date: '2022-04-03'
-image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
----
 
-```
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos minima optio omnis commodi atque modi, dolores saepe nostrum vero sunt obcaecati recusandae animi delectus veritatis ut nam dolore magnam.
+This is the second workshop i hosted in my homecity Calicut, India. The event was well recieved mostly by students and visualizers who wanted to explore Unreal.
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, explicabo necessitatibus cumque quis, labore incidunt facere dolor impedit odio fugit totam, praesentium blanditiis consequatur deleniti repellat reprehenderit modi aut enim.
+
+We also initiated to start a collobarative session with architecture students to create environment and simulation in unreal.
+

@@ -3,7 +3,7 @@ title: 'Arab health 2023 - Aimedis - Avalon'
 date: '2023-02-03'
 image: /images/posts/Arabhealth-event-2023/avalon-uae.jpeg
 excerpt: 'Arab Health - Avalon event at World trade center Dubai'
-isFeatured: true
+isFeatured: false
 tech: ['Event','Unreal Engine']
 ---
 

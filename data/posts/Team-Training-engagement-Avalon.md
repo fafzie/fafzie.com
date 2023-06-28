@@ -1,27 +1,19 @@
 ---
-title: 'Lorem Ipsum'
+title: 'Team engagement and training'
 date: '2022-04-03'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
+excerpt: 'Engaging and traing team members on activities '
+isFeatured: false
 tech: ['Markdown']
 ---
 
-# Using Markdown as a blog format
+# Engaging and traing team members on activities
 
 ![Image ...](/images/posts/first-post/first-post.jpg)
 
-```text
----
-title: 'Using Markdown as a blog format'
-date: '2022-04-03'
-image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
----
 
-```
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos minima optio omnis commodi atque modi, dolores saepe nostrum vero sunt obcaecati recusandae animi delectus veritatis ut nam dolore magnam.
+Engaging and Training team in various activities is a major part in R&D and product development. Training them, involving them in additional activities, and giving guidance to achieve the goal. By doing this individals also get an opportunity to think outside the box.
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, explicabo necessitatibus cumque quis, labore incidunt facere dolor impedit odio fugit totam, praesentium blanditiis consequatur deleniti repellat reprehenderit modi aut enim.
+
+The normal daily tasks someone do is a never eding thing, there will be one task and another. By doing new things individuals develop new skill and meet with unique challenegs. Its a win win situation for everyone involved in the process.

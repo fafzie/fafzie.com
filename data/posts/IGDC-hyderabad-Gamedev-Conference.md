@@ -1,27 +1,23 @@
 ---
-title: 'Lorem Ipsum'
+title: 'IGDC Hyderabad'
 date: '2022-04-03'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
-tech: ['Markdown']
+excerpt: 'Indian Game Developers Conference - Hyderabad'
+isFeatured: false
+tech: ['Event','Unreal engine']
 ---
 
-# Using Markdown as a blog format
+# Indian Game developer conference - Hyderabad
 
-![Image ...](/images/posts/first-post/first-post.jpg)
+![Image ...](/images/posts/IGDC-Hyd-2023/IGDC-hyderabad-2023.jpeg)
 
-```text
----
-title: 'Using Markdown as a blog format'
-date: '2022-04-03'
-image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
----
 
-```
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos minima optio omnis commodi atque modi, dolores saepe nostrum vero sunt obcaecati recusandae animi delectus veritatis ut nam dolore magnam.
+Attended the Game developer conference at Hyderabad, India. It was a one stop to meet the community and industries. There where booth of technology providers, gaming studios, institutes and more.
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, explicabo necessitatibus cumque quis, labore incidunt facere dolor impedit odio fugit totam, praesentium blanditiis consequatur deleniti repellat reprehenderit modi aut enim.
+![Image ...](/images/posts/IGDC-Hyd-2023/IGDC-hyderabad-2-2023.jpeg)
+
+
+During the event got a chanv=ce to meet David Stelzer,  global director of buisinsss - Unreal Engine. Discussed with him on our current projects and also the huge demand in the cloud streaming area. he mentioned to us how the epic roadmap looks like and what direction they look forward in the coming years.
+
+![Image ...](/images/posts/IGDC-Hyd-2023/IGDC-hyderabad-3-2023.jpeg)

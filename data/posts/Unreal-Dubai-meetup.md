@@ -1,27 +1,19 @@
 ---
-title: 'Lorem Ipsum'
+title: 'UAE - Unreal engine meetup'
 date: '2022-04-03'
 image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
+excerpt: 'My First Unreal Engine meetup from UAE'
 isFeatured: true
-tech: ['Markdown']
+tech: ['Event','Unreal Engine']
 ---
 
-# Using Markdown as a blog format
+# nreal Engine meetup from UAE - 2023
 
 ![Image ...](/images/posts/first-post/first-post.jpg)
 
-```text
----
-title: 'Using Markdown as a blog format'
-date: '2022-04-03'
-image: first-post.jpg
-excerpt: 'How to build a blog using react-markdown to render posts written in markdown'
-isFeatured: true
----
 
-```
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos minima optio omnis commodi atque modi, dolores saepe nostrum vero sunt obcaecati recusandae animi delectus veritatis ut nam dolore magnam.
+Dubai is an happening place accross the season. This time at UAE i got a chance to take part in an unreal engine meetup hosted at American University Dubai
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, explicabo necessitatibus cumque quis, labore incidunt facere dolor impedit odio fugit totam, praesentium blanditiis consequatur deleniti repellat reprehenderit modi aut enim.
+At the event i met few leading individuals from the region, discussed about various development in UE. We had a dedicated session on UEFN and virtual production , where we went via the UEFN editor , created a demo island and also discussed on the technicalities.
+
