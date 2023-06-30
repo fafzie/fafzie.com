@@ -4,7 +4,7 @@ date: '2020-05-22'
 image: first-post.jpg
 excerpt: 'Hosted an online zoom Unreal workshop during lockdown - 2020'
 isFeatured: false
-tech: ['Markdown']
+tech: ['Unreal Engine','Event','Workshop']
 ---
 
 # Unreal workshop - 2020 

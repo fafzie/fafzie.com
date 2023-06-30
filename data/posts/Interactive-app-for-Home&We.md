@@ -12,6 +12,6 @@ tech: ['Unreal engine']
 ![Image ...](/images/posts/Home&weapp/Home&weapp.png)
 
 
-Had an amazing opportunity to work with Home&We netherlands to create a cusomizer and interactive app for home interiors. I was involved in creating the app. Managed the design team, management team and UI-UX design  towards creating the solution.
+Had an amazing opportunity to work with Home&We New Zealand to create a cusomizer and interactive app for home interiors. I was involved in creating the app. Managed the design team, management team and UI-UX design  towards creating the solution.
 
 

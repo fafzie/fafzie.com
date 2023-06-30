@@ -4,7 +4,7 @@ date: '2021-03-25'
 image: first-post.jpg
 excerpt: 'An interactive workshop on Unreal Engine Workshop in Calicut, India '
 isFeatured: false
-tech: ['Unreal Engine']
+tech: ['Unreal Engine','Event','Workshop']
 ---
 
 # Interactive technology Workshop in Calicut, India

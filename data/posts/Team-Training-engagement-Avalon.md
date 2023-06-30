@@ -4,7 +4,7 @@ date: '20223-02-10'
 image: first-post.jpg
 excerpt: 'Engaging, participation and training team members on activities '
 isFeatured: false
-tech: ['Markdown']
+tech: ['Unreal Engine','Workshop']
 ---
 
 # Engaging and traing team members on activities

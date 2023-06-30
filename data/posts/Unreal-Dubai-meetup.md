@@ -4,7 +4,7 @@ date: '2023-06-12'
 image: first-post.jpg
 excerpt: 'My First Unreal Engine meetup from UAE'
 isFeatured: true
-tech: ['Event','Unreal Engine']
+tech: ['Event','Unreal Engine',Workshop']
 ---
 
 # nreal Engine meetup from UAE - 2023

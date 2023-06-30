@@ -29,6 +29,7 @@ const ProjectItem = (props) => {
                   src={`../../images/projects/${project.image}`}
                   width={320}
                   height={220}
+                  objectFit='contain'
                   alt=''
                 />
               </div>

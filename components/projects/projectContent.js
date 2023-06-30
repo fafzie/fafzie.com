@@ -91,6 +91,7 @@ const ProjectContent = (props) => {
                 src={`../../images/projects/${project.image}`}
                 width={500}
                 height={360}
+                objectFit='contain'
                 alt=''
               />
             </div>
@@ -117,6 +118,9 @@ const ProjectContent = (props) => {
                       src={`../../images/projects/${project.slug}/${screenshot.screenshot}`}
                       width={1000}
                       height={700}
+                      objectFit='contain'
+
+
                       alt={screenshot.description}
                     />
                     <div className={classes.description}>

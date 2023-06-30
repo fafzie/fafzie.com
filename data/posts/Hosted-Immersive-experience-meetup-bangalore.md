@@ -4,7 +4,7 @@ date: '2022-10-22'
 image: first-post.jpg
 excerpt: 'Hosted Immersive technology 2023 meetup in Banglore, India'
 isFeatured: false
-tech: ['Event']
+tech: ['Event','Workshop']
 ---
 
 # Hosted Immersive technology 2023 meetup in Banglore, India
