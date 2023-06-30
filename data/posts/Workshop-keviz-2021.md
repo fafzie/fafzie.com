@@ -1,6 +1,6 @@
 ---
 title: 'Interactive technology Workshop in Calicut, India'
-date: '2022-04-03'
+date: '2021-03-25'
 image: first-post.jpg
 excerpt: 'An interactive workshop on Unreal Engine Workshop in Calicut, India '
 isFeatured: false
@@ -9,7 +9,7 @@ tech: ['Unreal Engine']
 
 # Interactive technology Workshop in Calicut, India
 
-![Image ...](/images/posts/first-post/first-post.jpg)
+![Image ...](/images/posts/keviz-workshop-2021/keviz-workshop-2021-1.jpeg)
 
 
 
