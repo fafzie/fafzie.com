@@ -18,3 +18,5 @@ This is a medical metaverse project created in unreal engine. the project is use
 ##  Project Type
 
 External Project : AIMEDIS
+
+<a href="https://www.youtube.com/watch?v=hb_g4P0GhEc">Demo link Video</a>

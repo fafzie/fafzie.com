@@ -8,7 +8,7 @@
   description: This was an AR app developed to inaugrate an product launch.Developed in Unreal Engine.
 
   image: Furniture-kit-ar-app/Furniture-kit-ar-app.png
-  isFeatured: true
+  isFeatured: false
 
 ---
 
@@ -20,3 +20,4 @@ An Augmented Reality (AR) app develeped in unreal engine. The project was used t
 
 External Project : Keviz
 
+<a href="https://www.youtube.com/watch?v=zA2dAgWLnZ0">Demo link Video</a>

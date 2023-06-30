@@ -17,3 +17,4 @@ This is an interactive touch display and VR application used to visualize real e
 External Project : PixelGrand
 
 
+<a href="https://www.youtube.com/watch?v=zA2dAgWLnZ0">Demo link Video</a>
