@@ -2,7 +2,7 @@
 title: 'UAE - Unreal engine meetup'
 date: '2023-06-12'
 image: first-post.jpg
-excerpt: 'My First Unreal Engine meetup from UAE'
+excerpt: 'Unreal Engine meetup in UAE'
 isFeatured: true
 tech: ['Event','Unreal Engine',Workshop']
 ---

@@ -17,10 +17,12 @@ const About = () => {
         <div className={classes.row}>
           <div className={classes.columnLeft} data-aos='fade-right'>
             <h3>
-            Greetings! I am Fafis, an Unreal developer, trainer and visionary in interactive design. With over 6 years of expertise in crafting immersive solutions for simulations, game design, and architectural visualization, I have traversed the global landscape. Guided by a degree in architecture and a diploma in web development, I am adept at creating extraordinary experiences that transcend industry boundaries. Let us embark on a journey of boundless creativity together!
+            Greetings! I am Fafis, an Unreal developer, trainer and visionary in interactive design. With over 6 years of expertise in crafting immersive solutions for simulations, game design, and architectural visualization, I have traversed the global landscape.
+             Guided by a degree in architecture and a diploma in web development,
+             I am adept at creating extraordinary experiences that transcend industry boundaries. 
             </h3>
             <p>
-            With an inspired perspective, I envision a future where interactive technology transcends boundaries, igniting a tapestry of limitless creativity and transforming industries with captivating and immersive experiences.
+            With an inspired perspective, I envision a future where interactive technology transcends boundaries, igniting limitless creativity and transforming industries with captivating and immersive experiences.
             </p>
           </div>
 
