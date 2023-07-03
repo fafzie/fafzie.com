@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   const [theme, setTheme] = useState('dark');
 
   useEffect(() => {
-    TagManager.initialize({ gtmId: 'G-9YVE4QBELV' });
+    TagManager.initialize({ gtmId: 'GGTM-T6CJ67G' });
 
     if (window.matchMedia('(prefers-color-scheme: light)').matches) {
       setTheme('light');
