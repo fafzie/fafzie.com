@@ -3,6 +3,8 @@ import Head from 'next/head';
 import Navbar from '../components/layout/navbar/navbar';
 import Footer from '../components/layout/footer';
 import { useState, useEffect } from 'react';
+import TagManager from 'react-gtm-module'
+
 
 function MyApp({ Component, pageProps }) {
   const [theme, setTheme] = useState('dark');
