@@ -8,6 +8,8 @@ function MyApp({ Component, pageProps }) {
   const [theme, setTheme] = useState('dark');
 
   useEffect(() => {
+    TagManager.initialize({ gtmId: 'G-9YVE4QBELV' });
+
     if (window.matchMedia('(prefers-color-scheme: light)').matches) {
       setTheme('light');
     } else {
@@ -20,12 +22,15 @@ function MyApp({ Component, pageProps }) {
       <div className='app' data-theme={theme}>
         <Navbar theme={theme} newTheme={setTheme}>
           <Head>
+            
             <meta
               name='viewport'
               content='width=device-width, initial-scale=1'
             />
             <link rel='shortcut icon' href='/favicon.ico' />
           </Head>
+          
+
           <Component {...pageProps} currentTheme={theme} />
           <Footer />
         </Navbar>
