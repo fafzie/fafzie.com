@@ -4,6 +4,7 @@ import Navbar from '../components/layout/navbar/navbar';
 import Footer from '../components/layout/footer';
 import { useState, useEffect } from 'react';
 import TagManager from 'react-gtm-module'
+import Script from 'next/script'
 
 
 function MyApp({ Component, pageProps }) {
@@ -21,8 +22,24 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
+ <Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-9YVE4QBELV"/>
+    <Script
+      id='google-analytics'
+      strategy="afterInteractive"
+      dangerouslySetInnerHTML={{
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9YVE4QBELV', {
+            page_path: window.location.pathname,
+          });
+        `,
+        }}
+    />
       <div className='app' data-theme={theme}>
         <Navbar theme={theme} newTheme={setTheme}>
+      
           <Head>
             
             <meta
