@@ -6,7 +6,7 @@
     - Pixel Streaming
   description: This is a interio design customizing app developed in Unreal Engine.
   image: interior-design-customization/home&weapp.png
-  isFeatured: true
+  isFeatured: false
 ---
 
 ## Description
